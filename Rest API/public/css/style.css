@@ -4,10 +4,6 @@ body {
     color: white;
 }
 
-header {
-    background: #333333;
-}
-
 footer {
     padding-top: 10px;
     font-size: 12px;
@@ -16,5 +12,5 @@ footer {
     bottom:0px;
     height:35px;
     width:100%;
-    background: #333333;
+    background: black;
 }
